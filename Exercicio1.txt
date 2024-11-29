@@ -1,0 +1,16 @@
+1- O ano que o modelo relacional foi desenvolvido foi 1971
+
+2- Edgar Cold 
+
+3- A diferença de um Banco de Dados e de um SGBD é que o banco de dados 
+somente armazena dados enquanto o SGBD consegue gerenciar e alterar dados e informações
+
+4- As principais características de um Banco de Dados são tipo
+Empresa -> Cliente, mantendo e agrupando todos os dados e informações
+sobre tal proposta
+
+5- Relacional, Lógico e Físico 
+
+6- Mais controle sobre os dados 
+melhor facilidade de leitura
+Mais eficiente
